@@ -3,11 +3,24 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Dependencies:
+nodejs: v14.0.0
 
+
+## Getting Started
+
+#### Importing All Requirements
+We will importing all the required libraries into our node environment that is needed to run React application 
+If yarn is not installed, we must add the node library as a Global Install
+### npm install -g yarn
+Once we have yarn installed we can install all the dependencies.
+1. Change directory to the workdirectory of project ```cd {loaction to directory}```
+### `yarn install`
+
+#### Running User Profiles UI
 In the project directory, you can run:
-
 ### `yarn start`
+
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

@@ -1,0 +1,14 @@
+.list {
+    text-align: start;
+    color: white;
+}
+p {
+    text-align: center;
+    color: white;
+}
+
+ul li:hover, ul li:focus {
+    text-decoration: underline;
+    color: aqua;
+}
+
